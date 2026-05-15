@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /page54975665.html
+Disallow: /pc
+Disallow: /page55942051.html
+Disallow: /pcen
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow:
+
+
+Sitemap: http://took-took-transfer.ru/sitemap.xml
